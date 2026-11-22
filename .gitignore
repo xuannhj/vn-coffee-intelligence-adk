@@ -1,0 +1,17 @@
+# Environment & secrets
+.env
+*.env.local
+
+# Python virtual environments & cache
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+docs/superpowers/
